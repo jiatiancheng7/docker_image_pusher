@@ -61,7 +61,7 @@ php:8.3.9-apache-bookworm
 #gitlab/gitlab-ee:17.1.1-ee.0
 
 #nvidia/cuda:11.1.1-cudnn8-devel-ubuntu18.04
-
+nvidia/cuda:12.2.2-cudnn8-devel-ubuntu22.04
 #pytorch/pytorch:1.9.1-cuda11.1-cudnn8-devel
 #pytorch/pytorch:1.9.0-cuda11.1-cudnn8-devel
 #pytorch/pytorch:1.6.0-cuda10.1-cudnn7-devel
